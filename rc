@@ -8,6 +8,8 @@ endif
 
 let mapleader = 'ä'
 
+
+
 call plug#begin()
 Plug 'tpope/vim-sensible'
 Plug 'itchyny/lightline.vim'
